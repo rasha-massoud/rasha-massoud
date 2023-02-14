@@ -7,7 +7,7 @@
 
 - 📝 I’m currently learning **Full Stack Web Development**
 
-- 🔭 I love **coding and developing new skills**
+- 🔭 I love **coding** and **developing new skills**
 
 - 💬 I have a **great eye for detail** and enjoy **overcoming challenges**
 

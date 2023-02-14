@@ -7,9 +7,9 @@
 
 - 📝 I’m currently learning **Full Stack Web Development**
 
-- 📫 How to reach me **rasha-massoud@hotmail.com**
-
 - 🔭 I love **coding and developing new skills**
+
+- 📫 How to reach me **rasha-massoud@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

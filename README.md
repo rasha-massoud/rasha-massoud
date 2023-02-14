@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasha Massoud</h1>
-<h3 align="center">An Electrical and Mechatronics Engineer who is eager to widen my scope of knowledge in Full Stack Web Development</h3>
+<h3 align="center">An Electrical and Mechatronics Engineer who is keen to learn more about Full Stack Web Development</h3>
 
 <img align="right" alt="Female Coding" Width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif"/>
 

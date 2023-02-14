@@ -9,6 +9,8 @@
 
 - 🔭 I love **coding and developing new skills**
 
+- 💬 I have a **great eye for detail** and enjoy **overcoming challenges**
+
 - 📫 How to reach me **rasha-massoud@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>

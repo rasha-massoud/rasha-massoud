@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasha-massoud&label=Profile%20views&color=0e75b6&style=flat" alt="rasha-massoud" /> </p>
 
-- 💼 I'm eager to  **kick-start my career and contribute to innovative projects**
+- 🌱 I'm eager to  **kick-start my career** and **fuel cutting-edge projects**
 
 - 💬 I have a **strong foundation in web development** and a **hunger for knowledge**
 

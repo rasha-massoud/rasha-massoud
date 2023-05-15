@@ -1,18 +1,18 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://rasha-massoud.io)
 <h1 align="center">Hi 👋, I'm Rasha Massoud</h1>
-<h3 align="center">An Electrical and Mechatronics Engineer who is keen to learn more about Full Stack Web Development</h3>
+<h3 align="center">A passionate and ambitious Full-Stack Web Developer with a strong foundation in web development and a hunger for knowledge</h3>
 
 <img align="right" alt="Female Coding" Width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasha-massoud&label=Profile%20views&color=0e75b6&style=flat" alt="rasha-massoud" /> </p>
 
-- 📝 I’m currently learning **Full Stack Web Development**
+- 💼 I'm eager to  **kick-start my career and contribute to innovative projects**
 
-- 🔭 I love **coding** and **developing new skills**
+- 💬 I have a **strong foundation in web development** and a **hunger for knowledge**
 
-- 💬 I have a **great eye for detail** and enjoy **overcoming challenges**
+- 📝 I enjoy **coding** and **developing new skills**
 
-- 📫 How to reach me **rasha-massoud@hotmail.com**
+- 📫 How to reach me **rashamassoud1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

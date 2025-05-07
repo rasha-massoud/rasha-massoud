@@ -33,7 +33,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasha-massoud&show_icons=true&locale=en" alt="rasha-massoud" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rasha-massoud" alt="rasha-massoud" /></p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=rasha-massoud&cache_bust=1" alt="rasha-massoud" />
+</p>
 
  > “The only way to go fast, is to go well.”― Robert C. Martin
 

@@ -33,10 +33,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasha-massoud&show_icons=true&locale=en" alt="rasha-massoud" /></p>
 
+<!--
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rasha-massoud&theme=default" alt="rasha-massoud" />
 </p>
-
+-->
 
  > “The only way to go fast, is to go well.”― Robert C. Martin
 
